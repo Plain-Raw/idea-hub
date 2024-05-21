@@ -34,3 +34,13 @@ Not sure if top down or if we are capable of create a 3d game yet
 Just fighting hords with diffrent weapons from a rooftop
 Killing as many as possible
 You can not die but you may upgrade weapons?
+
+## A factory underground
+
+Factorio like game with tower defense elements.
+You are trapped deep underground and need to build something?
+Evolves around minecarts or trains and machines.
+There are giant worms and termites wandering around the map which might attack you if you create too much noice/vibration with your machines.
+You might install noisecancelling towers to lessen the vibration around your base but at some point you need to consider dealing with the critters differently.
+There are ore veins and other minerals that you can use. 
+These games always need something which consumes the resources. e.g. science, colony, shipment to home planet, ammunition, etc.
