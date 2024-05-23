@@ -66,3 +66,19 @@ Main goal is to get back to the surface again for which we need to place train t
 
 Ore patches are scattered around the caves.
 
+### Moodboard
+all ai generated: 
+
+random:
+![openart-image_Sx-oyLi-_1716474258025_raw](https://github.com/Plain-Raw/idea-hub/assets/88315530/bf96e331-5261-4e8d-ad38-ac5b89f21f47)
+
+space:
+![openart-image_V9EcPrLb_1716474348938_raw](https://github.com/Plain-Raw/idea-hub/assets/88315530/d1844dbf-f9e2-4f17-9a0f-1704ffdd90f8)
+
+medival:
+![openart-image_0RSyS4vE_1716474426540_raw](https://github.com/Plain-Raw/idea-hub/assets/88315530/9c8e0111-c860-42aa-a560-87698b45b569)
+
+roman:
+![openart-image_-f43Bpei_1716474552376_raw](https://github.com/Plain-Raw/idea-hub/assets/88315530/1a6d1eb9-fb6c-43c7-bb18-4bbf8c57d905)
+
+
